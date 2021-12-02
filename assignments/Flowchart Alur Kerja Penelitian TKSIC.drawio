@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T22:36:59.207Z" agent="5.0 (Windows)" etag="FXLXDNCx2kmHG5BcYgjE" version="15.8.9" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc5swEP41TJ/a4Uiw81icOGnrZtImbaaPMsigWrBUCB/99VkZYcC4Pto6hyd+sXZZVtJ+3x624fTi2aUgafQZAsoN2wxmhnNu2LZlOl38Upp5oTk9dQtFKFigjSrFLftNyze1NmcBzRqGEoBLljaVPiQJ9WVDR4SAadNsBLy5a0pC2lLc+oS3tfcskFGh7dqdSn9FWRiVO1vuWfEkJqWxvkkWkQCmNZVzYTg9ASCLVTzrUa6CV8bl/sP8ng/G7uXHL9kv8s37dHf9/W3hrL/PK8srCJrI/+vaLlxPCM91vPRd5bwMoIA8CahyYhqOF8mY49LC5U8q5VwDTnIJqAIhIwghIXwAkGq7ESRSm1lKpknwXgGL8pCDPy5Ufca53gMlbd9FKZMCxkvslIMlEMqYkyHlHvHH4eKgPeAg8FECCVWuAiSDvkt1uItK6+0YW41BBrnw6QY7R1OciJBu8qeTSJ2vxlON3CWFmEoxRwNBOZFs0iQz0TkRLu0q3HGhod+DBk6LBgMSpyrrgWbJG4mrKYjxBm4oXKYRk/Q2JYsATbGcNPlS5wFe1Qs5yTKN4haQ9wNpQoWks41hLZ+6Ord1cetqcVpVCqtM/6hWJU7MAwFx0gLiBxbP15T8l5R0d0zJsmNtzUlNlpIYO6eo9nQDLJE1ExiNMjzYKnWWG/49m05bbLqGFpm24/Gi6fZEZOrsxyXr2XPJ/UOLcDmGwRsKXIVqlfI8DJEs6C4xnH67dkUQD/Nse7toYKwY1Ccx4ypeV5RPqGQ+WdNUCGch7nvuI9xUrCcPbsmSECW3ku4WZMX6e8Bm02k2m6Vc7zbmmm7TPVS36bQwvUH0Cuhsky/wPbKO79grIJw9dcvv7lKkX3QJfvSOX1bT7S3f2rFMa/aY7xz8NAj0/KeAs51mytcx4DAMs49tEChPWOOTl/NhexIY5iJZDAKQy9dJYNMkYK9rQo86CZSFsAbqV5oShmCag2OcA1Z/+Z84Tz0HlJWiCQFXMbXNIsOODIPVWcyxDocBitU/tUUprP7vdi4eAA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-02T22:59:43.014Z" agent="5.0 (Windows)" etag="maDnri2UqJ8Gip1a7fwd" version="15.8.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flowchart Alur Kerja Penelitian">
+    <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-1" target="bWyKYytc7MRD8ci_lOKq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-1" value="&lt;div&gt;Dataset Hasil &lt;br&gt;&lt;/div&gt;&lt;div&gt;Survey Online&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=default;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-2" target="bWyKYytc7MRD8ci_lOKq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=default;fillColor=default;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="360" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-3" target="bWyKYytc7MRD8ci_lOKq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-3" value="Pendeteksian Outlier Pada Dataset" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="380" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-4" value="&lt;div&gt;Normalisasi &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="480" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;strokeColor=default;fontFamily=Times New Roman;fontStyle=1;whiteSpace=wrap;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="380" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-7" value="Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="460" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-9" value="X" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="630" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-10" target="bWyKYytc7MRD8ci_lOKq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-10" target="bWyKYytc7MRD8ci_lOKq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-10" value="X" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-11" target="bWyKYytc7MRD8ci_lOKq-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-11" value="Data Test" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-12" target="bWyKYytc7MRD8ci_lOKq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-12" value="Data Train" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-13" target="bWyKYytc7MRD8ci_lOKq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-13" value="Implementasi Back Propagation Neural Network" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="360" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-14" target="bWyKYytc7MRD8ci_lOKq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-14" value="Evaluasi Kinerja Model" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="470" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-15" target="bWyKYytc7MRD8ci_lOKq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-15" value="Hasil peringkatan tingkat depresi berdasarkan score" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="580" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-16" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWyKYytc7MRD8ci_lOKq-17" target="bWyKYytc7MRD8ci_lOKq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWyKYytc7MRD8ci_lOKq-17" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontColor=default;fillColor=default;gradientColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
